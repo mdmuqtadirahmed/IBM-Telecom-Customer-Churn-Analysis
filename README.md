@@ -85,3 +85,5 @@ These metrics were calculated from the dataset `telecom.csv`.
 - `customer_churn_analysis.sql` — data validation and business analysis queries in T-SQL.
 - `README.md` — project background, methodology, key findings, and report plan.
 - `business_requirements_document.md` — project BRD.
+- `insights.md` — the insights drawn from the analysis
+-  `telecom.csv` — dataset!!!
