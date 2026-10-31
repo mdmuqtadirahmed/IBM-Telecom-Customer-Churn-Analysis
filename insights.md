@@ -112,16 +112,6 @@ The sum of listed monthly charges for customers marked as churned is **$139,130.
 5. Evaluate tech support and online security adoption as potential retention opportunities.
 6. Report both churn rate and segment customer count so percentages are interpreted in context.
 
-## Suggested Power BI visuals
-
-- KPI cards: total customers, churned customers, churn rate, retention rate.
-- Bar chart: churn rate by contract type.
-- Bar chart: churn rate by tenure group.
-- Bar chart: churn rate by payment method.
-- Bar chart: churn rate by internet service.
-- Clustered bar chart: churn rate by tech support and online security.
-- Comparison visual: average tenure and average monthly charges by churn status.
-- Card for the **$139,130.85 monthly-charge exposure proxy**, clearly labeled as not confirmed lost revenue.
 
 ## Methodology and limitations
 
